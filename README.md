@@ -12,6 +12,8 @@ D1M UserGuide Chinese
 
 630G菜单对照。
 
+强生 OneTouch Ping 泵的说明书，没完全翻译。
+
 Dexcom G6 动态血糖仪（CGM）说明书 中英文混排。
 
 Faq：G6校准的%20/20法则
