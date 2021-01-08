@@ -5,7 +5,7 @@ D1M 用户指南中文版
 
 自己翻译的一些糖人需要的说明书。
 
-Some instructions for the sugar man that I translated.
+Some instructions for the D1M friend that I translated.
 
 美敦力 MiniMed 670G 中英混排；
 
