@@ -31,6 +31,10 @@ Dexcom G6 动态血糖仪（CGM）说明书 中英文混排。
 
 Dexcom G6 CGM UsersGuid, mixed Chinese and English.
 
+t:slim X2 泵用户手册_中英混排
+
+t:slim X2 insulin Pump User Guide
+
 Faq：G6校准的%20/20法则
 
 FAQ: Is my Dexcom sensor accurate ?
